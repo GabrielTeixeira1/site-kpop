@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+Tokumin:wght@500&display=swap');
+
+/* reset css */
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Kaisei Tokumin', serif;
+
+
+}
+
+body{
+    background-image: url("../IMG/kpop-imagem.jpg");
+    background-size: cover;
+    text-align: center;
+    
+
+
+}
+
+
+/* configuração do formulario */
+#Formulario{
+    height: 200px;
+    width: 400px;
+    text-align: center;
+    background-color: rgb(21, 6, 26);
+    margin: auto;
+    padding-top: 20px;
+    margin-top: 100px;
+    
+    
+
+}
+
+label{
+    color: whitesmoke;
+    font-size: 20px;
+
+
+}
+
+input{
+    width: 70%;
+    height: 30px;
+    font-size: 20px;
+
+
+
+}
+
+button{
+    width: 400px;
+    height: 40px;
+    background-color: rgb(10, 10, 10);
+    color: whitesmoke;
+    font-size: 23px;
+    border: none;
+    margin-top: 80px;
+
+
+}
+
+button:hover{
+    background-color: rgb(105, 15, 93);
+    
+
+
+}
+
+.voltar{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+
+
+
+
+}
